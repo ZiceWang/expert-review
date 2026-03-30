@@ -2,6 +2,9 @@
 build/
 releases/
 
+# Frontend build artifacts
+mcp-server/public/
+
 # Go
 *.exe
 *.dll
